@@ -5,6 +5,8 @@
 
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+*.pyc
+*.pyo
 
 # IPython
 profile_default/
